@@ -161,8 +161,8 @@ Minhas habilidades incluem programação em C, Java e Javascript, além de traba
  <td align="center" colspan="1"></td>
 </tr> 
 </table>
-<img src="https://img.shields.io/badge/Python-Expert-blue?logo=Python"/>
-<img src="https://img.shields.io/badge/Java-Expert-blue"/>
+<img src="https://img.shields.io/badge/Python-Aspira-blue?logo=Python"/>
+<img src="https://img.shields.io/badge/Java-Dev-blue"/>
 <img src="https://img.shields.io/badge/C-Enthusiast-blue"/>
 <img src="https://img.shields.io/badge/TDD-Advocate-blue"/>
 <img src="https://img.shields.io/badge/Clean%20Code-Evangelist-blue"/>
