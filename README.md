@@ -61,11 +61,12 @@ Minhas habilidades incluem programação em C, Java e Javascript, além de traba
 - :soccer:&nbsp; Sou cruzeirense, lógico! 🦊<br />
 - :basketball: &nbsp; Também gosto bastante de basquete/NBA.<br />
 - :airplane: &nbsp; Adoro viajar e conhecer novos lugares.<br />
+- :video_game: &nbsp; Gosto de jogar LOL nas horas vagas.<br />
+- :policeman: &nbsp; Já servi ao exército brasileiro.<br />
 - :parrot: &nbsp; Meu pet é uma cacatua com um belo topete.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:davidson.afg@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/davidsonfg/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
-- :memo: &nbsp; xxxx.<br />
 </p>
 </div>
 </div>
