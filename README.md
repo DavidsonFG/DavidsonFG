@@ -24,6 +24,8 @@
 </td>
 <td><a href="https://discordapp.com/users/287784703963168768" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
 </td>
+<td><a href="https://calendly.com/davidsonfg/" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/calendar.png?raw=true" width="50px" height="50px"/></a>
+</td>
 </tr>
 <tr>
  <td align="center" colspan="11"></td>
@@ -63,7 +65,7 @@ Minhas habilidades incluem programação em C, Java e Javascript, além de traba
 - :basketball: &nbsp; xxxx.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:davidson.afg@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :calendar: &nbsp; xxxx.<br />
+- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/davidsonfg/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
 - :page_facing_up: &nbsp; xxxx.<br />
 </p>
 </div>
