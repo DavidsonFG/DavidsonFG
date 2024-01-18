@@ -80,7 +80,9 @@ Minhas habilidades incluem programação em C, Java e Javascript, além de traba
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/python.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/c.png?raw=true"/></a></code>
-&nbsp; 
+&nbsp;
+<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cpp.svg"/></a></code> 
+&nbsp;
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/java.png"/></a></code>
 &nbsp; 
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/html.svg"/></a></code>
@@ -114,8 +116,6 @@ Minhas habilidades incluem programação em C, Java e Javascript, além de traba
 <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/intellij.png"/></a></code>
 &nbsp; 
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/vs.png"/></a></code>
-&nbsp;
-<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cpp.svg"/></a></code>
 </div>
 
 -----
