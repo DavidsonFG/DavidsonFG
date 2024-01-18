@@ -12,19 +12,19 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/DavidsonFG" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/DavidsonFG" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:davidson.afg@gmail.com" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:davidson.afg@gmail.com" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531992259540" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531992259540" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/davidson_faria/" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/davidson_faria/" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/davidsonfg/" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/davidsonfg/" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://discordapp.com/users/287784703963168768" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/287784703963168768" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://calendly.com/davidsonfg/" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/calendar.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://calendly.com/davidsonfg/" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
@@ -114,6 +114,8 @@ Minhas habilidades incluem programação em C, Java e Javascript, além de traba
 <code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/intellij.png"/></a></code>
 &nbsp; 
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/vs.png"/></a></code>
+&nbsp;
+<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cpp.svg"/></a></code>
 </div>
 
 -----
