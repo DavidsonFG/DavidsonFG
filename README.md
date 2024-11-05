@@ -138,13 +138,27 @@ Minhas habilidades incluem programação em C, Java e Javascript, além de traba
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=315wxb3gkvxvtiqzvc2u7zdejq6a" alt="Data Card for Spotify">
 </details>
 </div>
-<div>
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=315wxb3gkvxvtiqzvc2u7zdejq6a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</td>
+<td>
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=315wxb3gkvxvtiqzvc2u7zdejq6a&count=10"/>
+</td>
 <!--- <a href="https://twitter.com/DavidsonFG" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=DavidsonFG"/></a> -->
 <a href="https://www.last.fm/pt/user/davidsonfg" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=davidsonfg&width=400"/></a>
-<div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=315wxb3gkvxvtiqzvc2u7zdejq6a&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=315wxb3gkvxvtiqzvc2u7zdejq6a&count=10"/>
-</div>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
 </div>
 
 -----
