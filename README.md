@@ -34,7 +34,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Davidson</code>, tenho 23 anos, moro em BH e sou Dev. Atualmente trabalho como <code>assistente de TI</code> e estou no 4° período de Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a></i>👨🏻‍💻<br />
+<i><b>Olá</b> :wave:, sou o <code>Davidson</code>, tenho 23 anos, moro em BH e sou Dev. Atualmente trabalho como <code>Analista de TI</code> e estou no 5° período de Análise e Desenvolvimento de Sistemas do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a></i>👨🏻‍💻<br />
 </div>
 
 -----
@@ -55,7 +55,7 @@ Minhas habilidades incluem programação em C, Java e Javascript, além de traba
 
 <div align="justify">
 <p>
-- :necktie: &nbsp; Trabalho como Assistente de TI há 1 ano.<br />
+- :necktie: &nbsp; Trabalho como Analista de TI há 3 ano.<br />
 - :man_student: &nbsp; Sou estudante de ADS - Análise e Desenvolvimento de Sistemas.<br />
 - :briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.<br />
 - :soccer:&nbsp; Sou cruzeirense, lógico! 🦊<br />
@@ -63,7 +63,7 @@ Minhas habilidades incluem programação em C, Java e Javascript, além de traba
 - :airplane: &nbsp; Adoro viajar e conhecer novos lugares.<br />
 - :video_game: &nbsp; Gosto de jogar LOL nas horas vagas.<br />
 - :policeman: &nbsp; Já servi ao exército brasileiro.<br />
-- :parrot: &nbsp; Meu pet é uma cacatua com um belo topete.<br />
+- :parrot: &nbsp; Meu pet é uma cachorrinho rebaixado.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:davidson.afg@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/davidsonfg/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
