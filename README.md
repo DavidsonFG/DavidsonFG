@@ -132,7 +132,6 @@ Minhas habilidades incluem programação em C, Java e Javascript, além de traba
 -----
 
 <div>
-<div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/spotify.gif?raw=true"/> Davidson's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=315wxb3gkvxvtiqzvc2u7zdejq6a" alt="Data Card for Spotify">
